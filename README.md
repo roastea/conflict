@@ -1,1 +1,1 @@
-# conflict
+GitHubで編集しました
